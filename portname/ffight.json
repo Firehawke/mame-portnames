@@ -1,13 +1,15 @@
 {
-    "romname":"ffight",
-    "ports":{
-        ":IN1":{
-            "labels":{
-                "16":{"player":0,"name":"P1 Attack"},
-                "32":{"player":0,"name":"P1 Jump"},
-                "4096":{"player":1,"name":"P2 Attack"},
-                "8192":{"player":1,"name":"P2 Jump"}
-            }
-        }
-    }
-}
+	"romname":"ffight",
+	"ports":{
+	  ":IN1":{
+		"labels":{
+			"10":{"player":0,"name":"P1 Attack"},
+			"20":{"player":0,"name":"P1 Jump"},
+			"40":{"player":0,"name":"P1 Get out of grab (cheat)"},
+			"1000":{"player":1,"name":"P2 Attack"},
+			"2000":{"player":1,"name":"P2 Jump"},
+			"4000":{"player":1,"name":"P2 Get out of grab (cheat)"}
+			}
+	  }
+	}
+  }
