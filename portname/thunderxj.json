@@ -1,0 +1,17 @@
+{
+  "romname":"thunderxj",
+  "ports":{
+    ":P1":{
+        "labels":{
+          "10":{"player":0,"name":"P1 Shoot"},
+          "20":{"player":0,"name":"P1 Option Control"}
+        }
+      },
+      ":P2":{
+      "labels":{
+        "10":{"player":1,"name":"P2 Shoot"},
+        "20":{"player":1,"name":"P2 Option Control"}
+      }
+    }
+  }
+}
