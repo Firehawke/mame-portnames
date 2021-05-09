@@ -1,42 +1,42 @@
 {
-    "romname":"acedrvrw",
-    "ports":{
-        ":BRAKE":{"labels":{"255":{"name":"Brake Pedal","player":0}}},
-        ":INPUTS":{
-            "labels":{
-        "64":{
-          "name":"View Change",
-          "player":0
-        },
-        "1":{
-          "name":"Shift Down",
-          "player":0
-        },
-        "2":{
-          "name":"Shift Up",
-          "player":0
-        },
-        "32768":{
-          "name":"Motion-Stop",
-          "player":0
-        }
-      }
-    },
-    ":GAS":{
-      "labels":{
-        "255":{
-          "name":"Gas Pedal",
-          "player":0
-        }
-      }
-    },
-    ":STEER":{
-      "labels":{
-        "255":{
-          "name":"Steering Wheel",
-          "player":0
-        }
-      }
-    }
+	"romname":"acedrvrw",
+	"ports":{
+		":BRAKE":{"labels":{"255":{"name":"Brake Pedal","player":0}}},
+		":INPUTS":{
+			"labels":{
+		"64":{
+		  "name":"View Change",
+		  "player":0
+		},
+		"1":{
+		  "name":"Shift Down",
+		  "player":0
+		},
+		"2":{
+		  "name":"Shift Up",
+		  "player":0
+		},
+		"32768":{
+		  "name":"Motion-Stop",
+		  "player":0
+		}
+	  }
+	},
+	":GAS":{
+	  "labels":{
+		"255":{
+		  "name":"Gas Pedal",
+		  "player":0
+		}
+	  }
+	},
+	":STEER":{
+	  "labels":{
+		"255":{
+		  "name":"Steering Wheel",
+		  "player":0
+		}
+	  }
+	}
   }
 }

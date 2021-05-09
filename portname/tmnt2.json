@@ -1,29 +1,29 @@
 {
-    "romname":"tmnt2",
-    "ports":{
-        ":P1":{
-            "labels":{
-                "16":{"player":0,"name":"P1 Jump"},
-                "32":{"player":0,"name":"P1 Attack"}
-            }
-        },
-        ":P2":{
-            "labels":{
-                "16":{"player":1,"name":"P2 Jump"},
-                "32":{"player":1,"name":"P2 Attack"}
-            }
-        },
-        ":P3":{
-            "labels":{
-                "16":{"player":2,"name":"P3 Jump"},
-                "32":{"player":2,"name":"P3 Attack"}
-            }
-        },
-        ":P4":{
-            "labels":{
-                "16":{"player":3,"name":"P4 Jump"},
-                "32":{"player":3,"name":"P4 Attack"}
-            }
-        }
-    }
+	"romname":"tmnt2",
+	"ports":{
+		":P1":{
+			"labels":{
+				"16":{"player":0,"name":"P1 Jump"},
+				"32":{"player":0,"name":"P1 Attack"}
+			}
+		},
+		":P2":{
+			"labels":{
+				"16":{"player":1,"name":"P2 Jump"},
+				"32":{"player":1,"name":"P2 Attack"}
+			}
+		},
+		":P3":{
+			"labels":{
+				"16":{"player":2,"name":"P3 Jump"},
+				"32":{"player":2,"name":"P3 Attack"}
+			}
+		},
+		":P4":{
+			"labels":{
+				"16":{"player":3,"name":"P4 Jump"},
+				"32":{"player":3,"name":"P4 Attack"}
+			}
+		}
+	}
 }

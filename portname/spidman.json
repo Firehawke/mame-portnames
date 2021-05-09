@@ -1,29 +1,29 @@
 {
-    "romname":"spidman",
-        "ports":{
-        ":mainpcb:P1_A":{
-            "labels":{
-                "1":{"player":0,"name":"P1 Attack"},
-                "2":{"player":0,"name":"P1 Jump"}
-            }
-        },
-        ":mainpcb:P2_A":{
-                "labels":{
-                    "1":{"player":1,"name":"P2 Attack"},
-                    "2":{"player":1,"name":"P2 Jump"}
-            }
-        },
-        ":mainpcb:EXTRA1":{
-            "labels":{
-                "1":{"player":2,"name":"P3 Attack"},
-                "2":{"player":2,"name":"P3 Jump"}
-            }
-        },
-        ":mainpcb:EXTRA2":{
-            "labels":{
-                "1":{"player":3,"name":"P4 Attack"},
-                "2":{"player":3,"name":"P4 Jump"}
-            }
-        }
-    }
+	"romname":"spidman",
+		"ports":{
+		":mainpcb:P1_A":{
+			"labels":{
+				"1":{"player":0,"name":"P1 Attack"},
+				"2":{"player":0,"name":"P1 Jump"}
+			}
+		},
+		":mainpcb:P2_A":{
+				"labels":{
+					"1":{"player":1,"name":"P2 Attack"},
+					"2":{"player":1,"name":"P2 Jump"}
+			}
+		},
+		":mainpcb:EXTRA1":{
+			"labels":{
+				"1":{"player":2,"name":"P3 Attack"},
+				"2":{"player":2,"name":"P3 Jump"}
+			}
+		},
+		":mainpcb:EXTRA2":{
+			"labels":{
+				"1":{"player":3,"name":"P4 Attack"},
+				"2":{"player":3,"name":"P4 Jump"}
+			}
+		}
+	}
 }

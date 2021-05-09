@@ -1,21 +1,21 @@
 {
-    "romname":"jojoba",
-    "ports":{
-        ":INPUTS":{
-            "labels":{
-                "16":{"player":0,"name":"P1 Light"},
-                "32":{"player":0,"name":"P1 Medium"},
-                "64":{"player":0,"name":"P1 Strong"},
-                "4096":{"player":1,"name":"P2 Light"},
-                "8192":{"player":1,"name":"P2 Medium"},
-                "16384":{"player":1,"name":"P2 Strong"}
-            }
-        },
-        ":EXTRA":{
-            "labels":{
-                "524288":{"player":0,"name":"P1 Stand"},
-                "1048576":{"player":1,"name":"P2 Stand"}
-            }
-        }
-    }
+	"romname":"jojoba",
+	"ports":{
+		":INPUTS":{
+			"labels":{
+				"16":{"player":0,"name":"P1 Light"},
+				"32":{"player":0,"name":"P1 Medium"},
+				"64":{"player":0,"name":"P1 Strong"},
+				"4096":{"player":1,"name":"P2 Light"},
+				"8192":{"player":1,"name":"P2 Medium"},
+				"16384":{"player":1,"name":"P2 Strong"}
+			}
+		},
+		":EXTRA":{
+			"labels":{
+				"524288":{"player":0,"name":"P1 Stand"},
+				"1048576":{"player":1,"name":"P2 Stand"}
+			}
+		}
+	}
 }

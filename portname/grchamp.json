@@ -1,21 +1,21 @@
 {
   "ports":{
-    ":WHEEL":{
-      "labels":{
-        "255":{
-          "player":0,
-          "name":"Left / Right"
-        }
-      }
-    },
-    ":ACCEL":{
-      "labels":{
-        "255":{
-          "player":0,
-          "name":"Accelerate"
-        }
-      }
-    }
+	":WHEEL":{
+	  "labels":{
+		"255":{
+		  "player":0,
+		  "name":"Left / Right"
+		}
+	  }
+	},
+	":ACCEL":{
+	  "labels":{
+		"255":{
+		  "player":0,
+		  "name":"Accelerate"
+		}
+	  }
+	}
   },
   "romname":"grchamp"
 }

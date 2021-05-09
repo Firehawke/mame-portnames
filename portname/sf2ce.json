@@ -1,25 +1,25 @@
 {
-    "romname":"sf2ce",
-    "ports":{
-        ":IN1":{
-            "labels":{
-                "16":{"player":0,"name":"P1 Light Punch"},
-                "32":{"player":0,"name":"P1 Middle Punch"},
-                "64":{"player":0,"name":"P1 Heavy Punch"},
-                "4096":{"player":1,"name":"P2 Light Punch"},
-                "8192":{"player":1,"name":"P2 Middle Punch"},
-                "16384":{"player":1,"name":"P2 Heavy Punch"}
-            }
-        },
-        ":IN2":{
-            "labels":{
-                "1":{"player":0,"name":"P1 Light Kick"},
-                "2":{"player":0,"name":"P1 Middle Kick"},
-                "4":{"player":0,"name":"P1 Heavy Kick"},
-                "16":{"player":1,"name":"P2 Light Kick"},
-                "32":{"player":1,"name":"P2 Middle Kick"},
-                "64":{"player":1,"name":"P2 Heavy Kick"}
-            }
-        }
-    }
+	"romname":"sf2ce",
+	"ports":{
+		":IN1":{
+			"labels":{
+				"16":{"player":0,"name":"P1 Light Punch"},
+				"32":{"player":0,"name":"P1 Middle Punch"},
+				"64":{"player":0,"name":"P1 Heavy Punch"},
+				"4096":{"player":1,"name":"P2 Light Punch"},
+				"8192":{"player":1,"name":"P2 Middle Punch"},
+				"16384":{"player":1,"name":"P2 Heavy Punch"}
+			}
+		},
+		":IN2":{
+			"labels":{
+				"1":{"player":0,"name":"P1 Light Kick"},
+				"2":{"player":0,"name":"P1 Middle Kick"},
+				"4":{"player":0,"name":"P1 Heavy Kick"},
+				"16":{"player":1,"name":"P2 Light Kick"},
+				"32":{"player":1,"name":"P2 Middle Kick"},
+				"64":{"player":1,"name":"P2 Heavy Kick"}
+			}
+		}
+	}
 }

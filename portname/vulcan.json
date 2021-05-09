@@ -1,19 +1,19 @@
 {
-    "romname":"vulcan",
-    "ports":{
-        ":P1":{
-            "labels":{
-                "10":{"player":0,"name":"P1 Special Power"},
-                "20":{"player":0,"name":"P1 Shoot"},
-                "40":{"player":0,"name":"P1 Missile"}
-            }
-        },
-        ":P2":{
-            "labels":{
-                "10":{"player":1,"name":"P2 Special Power"},
-                "20":{"player":1,"name":"P2 Shoot"},
-                "40":{"player":1,"name":"P2 Missile"}
-            }
-        }
-    }
+	"romname":"vulcan",
+	"ports":{
+		":P1":{
+			"labels":{
+				"10":{"player":0,"name":"P1 Special Power"},
+				"20":{"player":0,"name":"P1 Shoot"},
+				"40":{"player":0,"name":"P1 Missile"}
+			}
+		},
+		":P2":{
+			"labels":{
+				"10":{"player":1,"name":"P2 Special Power"},
+				"20":{"player":1,"name":"P2 Shoot"},
+				"40":{"player":1,"name":"P2 Missile"}
+			}
+		}
+	}
 }

@@ -1,20 +1,20 @@
 {
-    "romname":"daytona2",
-    "ports":{
-        ":AN0":{"labels":{"255":{"player":0,"name":"Steering Wheel"}}},
-        ":AN1":{"labels":{"255":{"player":0,"name":"Gas Pedal"}}},
-        ":AN2":{"labels":{"255":{"player":0,"name":"Brake Pedal"}}},
-        ":IN2":{
-            "labels":{
-                "1":{"player":0,"name":"P1 Button 1"},
-                "2":{"player":0,"name":"P1 Button 2"},
-                "4":{"player":0,"name":"P1 Button 3"},
-                "8":{"player":0,"name":"P1 Button 4"},
-                "64":{"player":0,"name":"P1 Button 5"},
-                "128":{"player":0,"name":"P1 Button 6"},
-                "16":{"player":0,"name":"P1 Button 7"},
-                "32":{"player":0,"name":"P1 Button 8"}
-            }
-        }
-    }
+	"romname":"daytona2",
+	"ports":{
+		":AN0":{"labels":{"255":{"player":0,"name":"Steering Wheel"}}},
+		":AN1":{"labels":{"255":{"player":0,"name":"Gas Pedal"}}},
+		":AN2":{"labels":{"255":{"player":0,"name":"Brake Pedal"}}},
+		":IN2":{
+			"labels":{
+				"1":{"player":0,"name":"P1 Button 1"},
+				"2":{"player":0,"name":"P1 Button 2"},
+				"4":{"player":0,"name":"P1 Button 3"},
+				"8":{"player":0,"name":"P1 Button 4"},
+				"64":{"player":0,"name":"P1 Button 5"},
+				"128":{"player":0,"name":"P1 Button 6"},
+				"16":{"player":0,"name":"P1 Button 7"},
+				"32":{"player":0,"name":"P1 Button 8"}
+			}
+		}
+	}
 }

@@ -1,21 +1,21 @@
 {
-    "romname":"martmast",
-    "ports":{
-        ":P1P2":{
-            "labels":{
-                "32":{"player":0,"name":"P1 Weak Punch"},
-                "64":{"player":0,"name":"P1 Weak Kick"},
-                "128":{"player":0,"name":"P1 Strong Punch"},
-                "8192":{"player":1,"name":"P2 Weak Punch"},
-                "16384":{"player":1,"name":"P2 Weak Kick"},
-                "32768":{"player":1,"name":"P2 Strong Punch"}
-            }
-        },
-        ":Service":{
-            "labels":{
-                "256":{"player":0,"name":"P1 Strong Kick"},
-                "512":{"player":1,"name":"P2 Strong Kick"}
-            }
-        }
-    }
+	"romname":"martmast",
+	"ports":{
+		":P1P2":{
+			"labels":{
+				"32":{"player":0,"name":"P1 Weak Punch"},
+				"64":{"player":0,"name":"P1 Weak Kick"},
+				"128":{"player":0,"name":"P1 Strong Punch"},
+				"8192":{"player":1,"name":"P2 Weak Punch"},
+				"16384":{"player":1,"name":"P2 Weak Kick"},
+				"32768":{"player":1,"name":"P2 Strong Punch"}
+			}
+		},
+		":Service":{
+			"labels":{
+				"256":{"player":0,"name":"P1 Strong Kick"},
+				"512":{"player":1,"name":"P2 Strong Kick"}
+			}
+		}
+	}
 }

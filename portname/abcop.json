@@ -1,8 +1,8 @@
 {
-    "romname":"abcop",
-    "ports":{
-        ":mainpcb:ADC1":{"labels":{"255":{"player":0,"name":"Accelerate"}}},
-        ":mainpcb:ADC0":{"labels":{"255":{"player":0,"name":"Steer"}}},
-        ":mainpcb:IO1PORTA":{"labels":{"32":{"player":0,"name":"Jump"}}}
-    }
+	"romname":"abcop",
+	"ports":{
+		":mainpcb:ADC1":{"labels":{"255":{"player":0,"name":"Accelerate"}}},
+		":mainpcb:ADC0":{"labels":{"255":{"player":0,"name":"Steer"}}},
+		":mainpcb:IO1PORTA":{"labels":{"32":{"player":0,"name":"Jump"}}}
+	}
 }

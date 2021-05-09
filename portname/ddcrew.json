@@ -1,26 +1,26 @@
 {
-    "romname":"ddcrew",
-    "ports":{
-        ":P1":{
-            "labels":{
-                "1":{"name":"P1 Button 1"},
-                "2":{"name":"P1 Button 2"},
-                "4":{"name":"P1 Button 3"},
-            }
-        },
-        ":P2":{
-            "labels":{
-                "1":{"name":"P2 Button 1"},
-                "2":{"name":"P2 Button 2"},
-                "4":{"name":"P2 Button 3"},
-            }
-        },
-        ":P3":{
-            "labels":{
-                "1":{"name":"P3 Button 1"},
-                "2":{"name":"P3 Button 2"},
-                "4":{"name":"P3 Button 3"},
-            }
-        }
-    }
+	"romname":"ddcrew",
+	"ports":{
+		":P1":{
+			"labels":{
+				"1":{"name":"P1 Button 1"},
+				"2":{"name":"P1 Button 2"},
+				"4":{"name":"P1 Button 3"},
+			}
+		},
+		":P2":{
+			"labels":{
+				"1":{"name":"P2 Button 1"},
+				"2":{"name":"P2 Button 2"},
+				"4":{"name":"P2 Button 3"},
+			}
+		},
+		":P3":{
+			"labels":{
+				"1":{"name":"P3 Button 1"},
+				"2":{"name":"P3 Button 2"},
+				"4":{"name":"P3 Button 3"},
+			}
+		}
+	}
 }
