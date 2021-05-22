@@ -1,17 +1,17 @@
 {
-	"romname":"1943",
-	"ports":{
-		":P1":{
-			"labels":{
-				"16":{"player":0,"name":"P1 Fire"},
-				"32":{"player":0,"name":"P1 Special"}
-			}
-		},
-		":P2":{
-			"labels":{
-				"16":{"player":1,"name":"P2 Fire"},
-				"32":{"player":1,"name":"P2 Special"}
-			}
-		}
-	}
+  "romname":"1943",
+  "ports":{
+    ":P1":{
+      "labels":{
+        "10":{"player":0,"name":"P1 Shoot"},
+        "20":{"player":0,"name":"P1 Lightning/Tsunami/Cyclone"}
+      }
+    },
+    ":P2":{
+      "labels":{
+        "10":{"player":1,"name":"P2 Shoot"},
+        "20":{"player":1,"name":"P2 Lightning/Tsunami/Cyclone"}
+      }
+    }
+  }
 }
